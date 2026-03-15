@@ -1,5 +1,7 @@
 # Project 1
-software developer journey 2025 April 1 (KYUSHU SANGYOU UNIVERSITY) DateLine:2027 August 06
+software developer journey 
+Started : 2025 April 1 (KYUSHU SANGYOU UNIVERSITY)
+DateLine: 2027 August 06
 # Beginner
 1. Grade Calculator App
 2. Digital Clock UI
